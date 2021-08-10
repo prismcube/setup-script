@@ -19,4 +19,4 @@ meta-kde,git://gitorious.org/openembedded-core-layers/meta-kde.git,master,316d9c
 meta-linaro,git://git.linaro.org/openembedded/meta-linaro.git,master,b150f02e4c6503106fb7236ce0b06474583ea5fc
 openembedded-core,git://github.com/openembedded/oe-core.git,danny,HEAD
 meta-elmo,git://update.prismcube.com/meta-elmo.git,prismcube-ruby,HEAD
-meta-angstrom,git://update.prismcube.com/meta-angstrom.git,angstrom-v2012.12-yocto1.3,HEAD
+meta-angstrom,git://github.com/prismcube/meta-angstrom.git,angstrom-v2012.12-yocto1.3,HEAD
