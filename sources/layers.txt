@@ -17,6 +17,5 @@ meta-browser,git://github.com/OSSystems/meta-browser.git,master,5d176cb405497e5c
 meta-mono,git://git.yoctoproject.org/meta-mono.git,master,adf47f078dbf788a80ff1398a15a4fd5a334d320
 meta-kde,git://github.com/Angstrom-distribution/meta-kde.git,master,316d9c27e72cfebc7618268f8766624ee3f5e18e
 meta-linaro,git://git.linaro.org/openembedded/meta-linaro.git,master,b150f02e4c6503106fb7236ce0b06474583ea5fc
-openembedded-core,git://github.com/openembedded/oe-core.git,danny,HEAD
-meta-elmo,git://github.com/prismcube/meta-elmo.git,prismcube-ruby,HEAD
+openembedded-core,git://github.com/openembedded/openembedded-core.git,danny,HEAD
 meta-angstrom,git://github.com/prismcube/meta-angstrom.git,angstrom-v2012.12-yocto1.3,HEAD
